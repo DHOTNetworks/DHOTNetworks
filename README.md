@@ -15,7 +15,7 @@
 [![Zig](https://img.shields.io/badge/Zig-0.15.2-F7A41D?style=flat-square&logo=zig&logoColor=white)](https://ziglang.org/)
 [![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![Blockchain](https://img.shields.io/badge/Blockchain-EVM%20%7C%20RISC--V%20%7C%20PolkaVM-6C47FF?style=flat-square)](#)
-[![GUI](https://img.shields.io/badge/GUI-imgui%20%2B%20imgui-00C896?style=flat-square)](#)
+[![GUI](https://img.shields.io/badge/GUI-zgui%20%2B%20imgui-implot-00C896?style=flat-square)](#)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat-square)](#)
 
 </div>
