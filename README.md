@@ -36,7 +36,7 @@ No Electron. No Python runtimes. No cloud lock-in. Just compiled binaries that w
 
 ### 🔗 Zephyria — A New Blockchain Runtime
 
-> *A production-grade blockchain VM and smart contract compiler, written from scratch in Zig.*
+> *An Open-source Performance Oriented, Layer-1, web3 smarts contract Execution Engine, built for raw throughput and first-class Parallel Execution, written from scratch in Zig.*
 
 <br>
 
@@ -44,17 +44,25 @@ No Electron. No Python runtimes. No cloud lock-in. Just compiled binaries that w
 
 ### 📦 FORGE - Safe Contracts, Same Safety - Everywhere
 
-> *A free, open-source, Safety-First smart contract language, built to target all web3 platforms possible, single code runs on Zephyria, EVM, Solana*
+> *A Open-source, Safety-First smart contract language, built to target all web3 platforms possible, single code runs on Zephyria, EVM, Solana*
 
 <br>
 
 ---
 
+### 🖥️ KAI - Safety of Rust, Simplicity of Zig, to C, builtin AI Toolkit
+
+> *An Open-source Project, aims to provide, the Rust's safety checks, Zig's simplicity, a cleaner explicit syntax format, compiled to C, giving C a first-class 'SUPERPOWER', Providing First-class Tooling for Safe AI Agents Programming, write safe C application s with the language builtin with first-class kit for 'AI' citizens*
+
 ## 🧭 Roadmap
 
-**Zephyria**
-**KAI - Bringing Safe to Bare C**
-**FORGE - The Safe Web3cnomics**
+- **Zephyria - Performant web3 Execution Engine**
+<br>
+
+- **KAI - Providing Runtime Safety to Bare C**
+<br>
+
+- **FORGE - The Safe Web3cnomics**
 
 ---
 
@@ -66,8 +74,9 @@ We build for developers and users who are tired of:
 - Paying for things that should be free
 - Safety of Rust, Simplicity of Zig to Bare C  
 - Safety to your Web3 Assets
-- 
-Everything here is **free, open-source, and developed for the Safe Guarding of Systems**.
+- Language Built for AI Agents and Humans for safe and robust C Programming
+
+ Everything here is **free, open-source, and developed for the Safe Guarding of Systems**.
 
 ---
 
