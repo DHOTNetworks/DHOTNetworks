@@ -22,9 +22,9 @@
 
 ---
 
-## ⚡ What I Build
+## ⚡ What We Build
 
-I work at the **intersection of systems programming and financial technology** — low-level, high-performance, zero-dependency tools that run everywhere and depend on nothing.
+We work at the **intersection of systems programming and financial technology** — low-level, high-performance, zero-dependency tools that run everywhere and depend on nothing.
 
 No Electron. No Python runtimes. No cloud lock-in. Just compiled binaries that work.
 
@@ -38,86 +38,23 @@ No Electron. No Python runtimes. No cloud lock-in. Just compiled binaries that w
 
 > *A production-grade blockchain VM and smart contract compiler, written from scratch in Zig.*
 
-```
-Forge Language (.foz) → forgec Compiler → ZephBin Binary → ZephyriaVM Execution
-                              ↓
-              RISC-V RV64IM / EVM / PolkaVM Backends
-```
+<br>
 
-**What makes it different:**
+---
 
-| Feature | Description |
-|--------|-------------|
-| 🦺 **Forge Language** | A new smart contract language with first-class authority guards, linear capability types, and conservation proofs |
-| 🧠 **ZephyriaVM** | A custom RISC-V RV64IM interpreter with a sandboxed execution model and per-opcode gas metering |
-| ⚙️ **Multi-Backend Codegen** | Compiles to RISC-V, EVM bytecode, and PolkaVM WASM from a single frontend |
-| 🔒 **Adversary Blocks** | Built-in adversary simulation at the language level — think fuzzing, but in your contract spec |
-| 📐 **Conservation Proofs** | Formal conservation expressions (`conserves`) enforced at compile time, not runtime |
-| 📦 **ZephBin v1** | Custom binary format with BLAKE3 checksums, ABI JSON, and signed access-list descriptors |
+### 📦 FORGE - Safe Contracts, Same Safety - Everywhere
 
-**Stack:** `Zig 0.15.2` · `~18,500+ LOC` · `13 compiler passes` · `3 codegen backends`
+> *A free, open-source, Safety-First smart contract language, built to target all web3 platforms possible, single code runs on Zephyria, EVM, Solana*
 
 <br>
 
 ---
 
-### 📈 Stock Jedi — Bloomberg in Your Terminal
-
-> *A free, open-source, professional NSE trading terminal. No subscription. No browser. No bloat.*
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  WATCHLIST  │         CANDLESTICK CHART (Unicode)           │
-│─────────────│──────────────────────────────────────────────│
-│  RELIANCE   │   ▄█▀█▄  ▀█  █▄▀█  ▄▄  Real-time OHLCV      │
-│  TCS        │  ▀   ▀█▄ █▄▀  ▄█▀  ██  Yahoo Finance v8      │
-│  NIFTY50    │                         No auth required      │
-│─────────────│──────────────────────────────────────────────│
-│  F&O CHAIN  │   CE OI │ Strike │ PE OI │ IV │ Greeks       │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**Why it exists:** Bloomberg Terminal costs $24,000/year. Zerodha/Kite is browser-only. Nothing gives you a fast, keyboard-driven, offline-capable NSE terminal — until now.
-
-| Feature | Detail |
-|---------|--------|
-| 📡 **Live Quotes** | Real-time NSE data via Yahoo Finance free API (`SYMBOL.NS`) |
-| 🕯️ **Candlestick Charts** | Full Unicode block-character OHLCV charts with ANSI colors, in-terminal |
-| 📊 **F&O Options Chain** | Live options chain with OI, IV, and Greeks |
-| ⚡ **Single Binary** | Cross-platform. macOS, Windows, Linux. Zero install. |
-| 🔄 **Background Refresh** | Goroutine-based thread-safe cache with configurable refresh intervals |
-| 🎯 **Keyboard-Driven** | Full Bloomberg-style hotkey navigation |
-
-**Stack:** `Zig 0.15.2` · `Dear ImGui` · `SDL2` · `Yahoo Finance v8 API` · `JSON config persistence`
-
----
-
-## 🛠️ Tech Stack
-
-```
-Languages       │  Zig 0.15.2 · (expanding)
-Compilers/VMs   │  Custom Zephyria RISC-V interpreter · EVM emitter · PolkaVM codegen
-GUI             │  Dear ImGui · SDL2 · Unicode rendering
-Data            │  Yahoo Finance v8 · NSE market data · REST/JSON
-Storage         │  ZephBin v1 (custom) · JSON config · Thread-safe in-memory cache
-Tooling         │  Single-binary distribution · No external runtimes · Cross-platform
-```
-
----
-
 ## 🧭 Roadmap
 
-**Stock Jedi**
-- [ ] Technical indicators (RSI, MACD, Bollinger Bands)
-- [ ] News RSS feed panel
-- [ ] Global markets & forex panel
-- [ ] Paper trading simulator
-
 **Zephyria**
-- [ ] ZK proof integration flag (`0x04` in ZephBin header)
-- [ ] Parallel execution model (`#[parallel]` actions)
-- [ ] Full test suite with adversary simulation harness
-- [ ] Forge language spec documentation
+**KAI - Bringing Safe to Bare C**
+**FORGE - The Safe Web3cnomics**
 
 ---
 
@@ -125,12 +62,12 @@ Tooling         │  Single-binary distribution · No external runtimes · Cross
 
 > *"The best tool is the one that disappears. You shouldn't notice it — you should only notice the work."*
 
-I build for developers and traders who are tired of:
+We build for developers and users who are tired of:
 - Paying for things that should be free
-- Running Electron apps for 2MB of functionality  
-- Waiting on cloud APIs for data they can fetch themselves
-
-Everything here is **free, open-source, and compiled to a single binary**.
+- Safety of Rust, Simplicity of Zig to Bare C  
+- Safety to your Web3 Assets
+- 
+Everything here is **free, open-source, and developed for the Safe Guarding of Systems**.
 
 ---
 
@@ -147,5 +84,5 @@ Everything here is **free, open-source, and compiled to a single binary**.
 ---
 
 <div align="center">
-<sub>Built with Zig · Go · and an unhealthy obsession with compile-time correctness</sub>
+<sub>Built with Zig · C · and an unhealthy obsession with compile-time correctness</sub>
 </div>
