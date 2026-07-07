@@ -13,9 +13,10 @@
 ### Building the tools the market doesn't have — yet.
 
 [![Zig](https://img.shields.io/badge/Zig-0.15.2-F7A41D?style=flat-square&logo=zig&logoColor=white)](https://ziglang.org/)
-[![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
-[![Blockchain](https://img.shields.io/badge/Blockchain-EVM%20%7C%20RISC--V%20%7C%20PolkaVM-6C47FF?style=flat-square)](#)
-[![GUI](https://img.shields.io/badge/GUI-zgui%20%2B%20implot-00C896?style=flat-square)](#)
+![KAI](https://img.shields.io/badge/KAI-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTAgMTAwIj4KICA8ZGVmcz4KICAgIDwhLS0gQSB2aWJyYW50LCBoaWdoLWVuZXJneSBncmFkaWVudCBpbnNwaXJlZCBieSBaaWcncyBzdHJpa2luZyBjb2xvciBwcm9maWxlIC0tPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJ6aWdTdHlsZUdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRkY3QTAwIiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNGRkIzMDAiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KCiAgPCEtLSBMZWZ0IFN0ZW06IEEgdGhpY2ssIGphZ2dlZCBwaWxsYXIgbGVhbmluZyBmb3J3YXJkLCB3aXRoIGFuIGlubmVyIHN0ZXAgY3V0IG91dCAtLT4KICA8cGF0aCBkPSJNIDMyIDEwIEwgNjIgMTAgTCA1MiA0NSBMIDQyIDQ1IEwgMzIgOTAgTCAyIDkwIFoiIGZpbGw9InVybCgjemlnU3R5bGVHcmFkKSIgLz4KICAKICA8IS0tIFVwcGVyIFJpZ2h0IEFybTogQSBzaGFycCBzaGFyZCBwZXJmZWN0bHkgc2xvdHRlZCBhYm92ZSB0aGUgc3RlbSdzIHN0ZXAgLS0+CiAgPHBhdGggZD0iTSA2NiAxMCBMIDEwNyAxMCBMIDc2IDQxIEwgNTcgNDEgWiIgZmlsbD0idXJsKCN6aWdTdHlsZUdyYWQpIiAvPgogIAogIDwhLS0gTG93ZXIgUmlnaHQgQXJtOiBBIHdpZGUsIGdyb3VuZGluZyBzaGFyZCBzbG90dGVkIGJlbG93IHRoZSBzdGVwIC0tPgogIDxwYXRoIGQ9Ik0gNDUgNDkgTCA2NSA0OSBMIDg3IDkwIEwgMzYgOTAgWiIgZmlsbD0idXJsKCN6aWdTdHlsZUdyYWQpIiAvPgo8L3N2Zz4K)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Blockchain](https://img.shields.io/badge/Blockchain-AVM%20%7C%20RISC--V%20%7C%20EVM-6C47FF?style=flat-square)](#)
+[![GUI](https://img.shields.io/badge/GUI-DearImGUI-00C896?style=flat-square)](#)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat-square)](#)
 
 </div>
